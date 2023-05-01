@@ -1,0 +1,37 @@
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.AssemblyInfo.cs
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.deps.json
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.runtimeconfig.json
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.runtimeconfig.dev.json
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.pdb
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.dll
+C:\Users\Denis\Documents\Visual Studio 2017\Projects\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.pdb
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.deps.json
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.runtimeconfig.json
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.runtimeconfig.dev.json
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.dll
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.pdb
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.AssemblyInfo.cs
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.dll
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.pdb
+C:\Users\tsepo\Downloads\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.genruntimeconfig.cache
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.deps.json
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.runtimeconfig.json
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.runtimeconfig.dev.json
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.dll
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp2.0\TicTacToe.pdb
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.csproj.AssemblyReference.cache
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.AssemblyInfo.cs
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.dll
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.pdb
+D:\DEvelopment\0705+-+TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp2.0\TicTacToe.genruntimeconfig.cache
